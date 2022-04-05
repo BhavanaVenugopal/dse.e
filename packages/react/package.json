@@ -1,6 +1,6 @@
 {
   "name": "@dse.e/react",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "lib/index.js",
   "license": "MIT",
   "files": [
@@ -10,7 +10,7 @@
     "@babel/preset-env": "^7.10.4",
     "@babel/preset-react": "^7.10.4",
     "@babel/preset-typescript": "^7.10.4",
-    "@dse.e/foundation": "^1.0.2",
+    "@dse.e/foundation": "^1.0.3",
     "@storybook/addon-a11y": "^5.3.19",
     "@storybook/addon-knobs": "^5.3.19",
     "@storybook/addon-storysource": "^5.3.19",
