@@ -35,7 +35,7 @@ const compile = (path, fileName) => {
     )
 }
 
-compile('src/global.scss', 'lib/global.css ')
+compile('src/global.scss', 'lib/global.css')
 
 getComponents().forEach(component => {
     compile(component.input, component.output)
